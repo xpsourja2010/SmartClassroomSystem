@@ -1,2 +1,0 @@
-# SmartClassroomSystem
-PRIOR APPROVAL REQUIRED 
